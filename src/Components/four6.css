@@ -1,0 +1,9 @@
+.text-left {
+    text-align: left;
+}
+.pb-5 {
+    padding-bottom: 1.25rem;
+}
+.flex {
+    display: flex;
+}

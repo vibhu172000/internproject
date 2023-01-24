@@ -1,0 +1,25 @@
+.page{
+    background-color:#1A1935;
+    padding: 80px 0;
+    height: 300px;
+}
+.md\:mb-10 {
+    margin-bottom: 2.5rem;
+}
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255/var(--tw-text-opacity));
+}
+.font-bold {
+    font-weight: 700;
+}
+.text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+.text-center {
+    text-align: center;
+}
+.text-ellipsis, .truncate {
+    text-overflow: ellipsis;
+}

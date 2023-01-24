@@ -1,0 +1,16 @@
+.o1 {
+    padding-top: 3rem;
+}
+.o4 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255/var(--tw-bg-opacity));
+}
+.o6 {
+    flex-direction: column;
+}
+.o5 {
+    width: 100%;
+}
+.o7 {
+    display: flex;
+}

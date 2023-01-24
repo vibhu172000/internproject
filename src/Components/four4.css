@@ -1,0 +1,25 @@
+.md\:px-0 {
+    padding-left: 0;
+    padding-right: 0;
+}
+.font-bold {
+    font-weight: 700;
+}
+.text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+.text-left {
+    text-align: left;
+}
+.pb-3 {
+    padding-bottom: 0.75rem;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    color: rgba(0,0,0,.85);
+}
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre {
+    margin: 0;
+}

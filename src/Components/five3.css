@@ -1,0 +1,18 @@
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255/var(--tw-text-opacity));
+}
+.text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+.font-notoSans {
+    font-family: Noto Sans,sans-serif;
+}
+.mt-3 {
+    margin-top: 0.75rem;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5em;
+    font-weight: 500;
+}

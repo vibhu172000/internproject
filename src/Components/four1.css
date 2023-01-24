@@ -1,0 +1,18 @@
+.md\:py-16 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.font-notoSans {
+    font-family: Noto Sans,sans-serif;
+}
+.text-center {
+    text-align: center;
+}
+.py-8 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.bg-\[\#F8FAFE\] {
+    --tw-bg-opacity: 1;
+    background-color: rgb(248 250 254/var(--tw-bg-opacity));
+}

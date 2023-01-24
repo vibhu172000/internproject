@@ -1,0 +1,22 @@
+.md\:pr-3 {
+    padding-right: 0.75rem;
+}
+
+.md\:p-8 {
+    padding: 2rem;
+}
+.md\:ml-10 {
+    margin-left: 2.5rem;
+}
+.sm\:p-10 {
+    padding: 2.5rem;
+}
+.text-center {
+    text-align: center;
+}
+.pt-6 {
+    padding-top: 1.5rem;
+}
+.max-w-screen-sm {
+    max-width: 640px;
+}
